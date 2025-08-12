@@ -19,3 +19,5 @@ Thank you for visiting my page! In this branch Project, you will be able to view
        * Job_listings_scientist.csv
 ## House_sales_final_project_Data_analysis.html file
       * The file was uploaded to replace previous notebook file as this file contains the output. 
+## LaTeX common commnads and notes for mathematic expressions
+      * From Coursera
