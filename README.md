@@ -21,3 +21,5 @@ Thank you for visiting my page! In this branch Project, you will be able to view
       * The file was uploaded to replace previous notebook file as this file contains the output. 
 ## LaTeX common commnads and notes for mathematic expressions
       * From Coursera
+
+## Churning_Data_Science_Modeling
