@@ -24,7 +24,14 @@ Thank you for visiting my page! In this branch Project, you will be able to view
 
 ## Churning_Data_Science_Modeling
 
+
 ## Loan default modelling_LogisticRegression_riskscore
+
+## Data_visualisation 
+      * Basic to advanced graphs 
+
+## Beautiful and meaningful assignment 
+      * Observe the sales through economic downtowns, and dashboard contruction
 
 
 
